@@ -1,0 +1,23 @@
+/* Hacer el acordeón más pequeño */
+.accordion-button {
+    font-size: 14px;  /* Reducir el tamaño de la fuente */
+    padding: 6px 12px;  /* Reducir el padding de los botones */
+    line-height: 1.4; /* Ajustar la altura de la línea */
+}
+
+.accordion-button img {
+    width: 10px;  /* Reducir el tamaño de la imagen de la flecha */
+    height: 10px;
+}
+
+/* Reducir el tamaño del cuerpo del acordeón */
+.accordion-body {
+    font-size: 13px;  /* Reducir el tamaño de la fuente del contenido */
+    padding: 8px 12px;  /* Reducir el padding del contenido */
+}
+
+/* Ajustar el ancho del contenedor */
+.accordion {
+    max-width: 700px;  /* Limitar el ancho máximo del acordeón */
+    margin: 0 auto;  /* Centrar el acordeón */
+}
