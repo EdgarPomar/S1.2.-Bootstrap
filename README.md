@@ -46,7 +46,7 @@ Sección con tarjetas en "modo escalera", logrando un efecto visual atractivo:
 
 1. Descargar o clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/landing-page-bootstrap.git
+git clone https://github.com/EdgarPomar/S1.2.-Bootstrap.git
 ```
 
 2. Abrir el archivo index.html en un navegador.
